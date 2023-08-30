@@ -1,0 +1,73 @@
+,name,size_x,size_y
+0,"cigre_mv_all",36,52
+1,"cigre_mv_pv_wind",36,52
+2,"cigre_mv_without",36,52
+3,"1-MV-rural--0-sw",23.55, 20.15
+4,"1-MV-rural--0-no_sw",23.55, 20.15
+5,"1-MV-rural--1-sw",23.55, 20.15
+6,"1-MV-rural--1-no_sw",23.55, 20.15
+7,"1-MV-rural--2-sw",23.55, 20.15
+8,"1-MV-rural--2-no_sw",23.55, 20.15
+9,"1-MV-semiurb--0-sw",22.5, 21.24
+10,"1-MV-semiurb--0-no_sw",22.5, 21.24
+11,"1-MV-semiurb--1-sw",22.5, 21.24
+12,"1-MV-semiurb--1-no_sw",22.5, 21.24
+13,"1-MV-semiurb--2-sw",22.5, 21.24
+14,"1-MV-semiurb--2-no_sw",22.5, 21.24
+15,"1-MV-urban--0-sw",19.6, 21.35
+16,"1-MV-urban--0-no_sw",19.6, 21.35
+17,"1-MV-urban--1-sw",19.6, 21.35
+18,"1-MV-urban--1-no_sw",19.6, 21.35
+19,"1-MV-urban--2-sw",19.6, 21.35
+20,"1-MV-urban--2-no_sw",19.6, 21.35
+21,"1-MV-comm--0-sw",23.35, 17.345
+22,"1-MV-comm--0-no_sw",23.35, 17.345
+23,"1-MV-comm--1-sw",23.35, 17.345
+24,"1-MV-comm--1-no_sw",23.35, 17.345
+25,"1-MV-comm--2-sw",23.35, 17.345
+26,"1-MV-comm--2-no_sw",23.35, 17.345
+27,"mv_oberrhein",16.2781,21.5763
+28,"1-LV-rural1--0-sw",1.39, 1.78
+29,"1-LV-rural1--0-no_sw",1.39, 1.78
+30,"1-LV-rural1--1-sw",1.39, 1.78
+31,"1-LV-rural1--1-no_sw",1.39, 1.78
+32,"1-LV-rural1--2-sw",1.39, 1.78
+33,"1-LV-rural1--2-no_sw",1.39, 1.78
+34,"1-LV-rural2--0-sw",2.89, 9.45
+35,"1-LV-rural2--0-no_sw",2.89, 9.45
+36,"1-LV-rural2--1-sw",2.89, 9.45
+37,"1-LV-rural2--1-no_sw",2.89, 9.45
+38,"1-LV-rural2--2-sw",2.89, 9.45
+39,"1-LV-rural2--2-no_sw",2.89, 9.45
+40,"1-LV-rural3--0-sw",8.23, 7.06
+41,"1-LV-rural3--0-no_sw",8.23, 7.06
+42,"1-LV-rural3--1-sw",8.23, 7.06
+43,"1-LV-rural3--1-no_sw",8.23, 7.06
+44,"1-LV-rural3--2-sw",8.23, 7.06
+45,"1-LV-rural3--2-no_sw",8.23, 7.06
+46,"1-LV-semiurb4--0-sw",2.56, 4.005
+47,"1-LV-semiurb4--0-no_sw",2.56, 4.005
+48,"1-LV-semiurb4--1-sw",2.56, 4.005
+49,"1-LV-semiurb4--1-no_sw",2.56, 4.005
+50,"1-LV-semiurb4--2-sw",2.56, 4.005
+51,"1-LV-semiurb4--2-no_sw",2.56, 4.005
+52,"1-LV-semiurb5--0-sw",3.95, 6.395
+53,"1-LV-semiurb5--0-no_sw",3.95, 6.395
+54,"1-LV-semiurb5--1-sw",3.95, 6.395
+55,"1-LV-semiurb5--1-no_sw",3.95, 6.395
+56,"1-LV-semiurb5--2-sw",3.95, 6.395
+57,"1-LV-semiurb5--2-no_sw",3.95, 6.395
+58,"1-LV-urban6--0-sw",3.67, 3.06
+59,"1-LV-urban6--0-no_sw",3.67, 3.06
+60,"1-LV-urban6--1-sw",3.67, 3.06
+61,"1-LV-urban6--1-no_sw",3.67, 3.06
+62,"1-LV-urban6--2-sw",3.67, 3.06
+63,"1-LV-urban6--2-no_sw",3.67, 3.06
+64,"cigre_lv",1.075, 1.576
+65,"rural_1",1.1824, 2.66
+66,"rural_2",1.14, 1.14
+67,"village_1",1.8132, 2.7198
+68,"village_2",1.9499, 2.5998
+69,"suburb_1",2.777, 2.0691
+
+
